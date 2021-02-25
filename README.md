@@ -1,7 +1,7 @@
 <p align="center">
    <img src="public/logo-full.svg" alt="Move It" width="300"/>
 </p>
-
+ 
 <br/>
 <p align="center">
 
