@@ -19,7 +19,7 @@ O projeto está sendo desenvolvido com as seguintes tecnologias.
 * [Typescript](https://www.typescriptlang.org/)
 * [React](https://reactjs.org/)
 * [Next.js](https://nextjs.org/)
-
+ 
 # Sobre
 
 ## :alarm_clock: Move.it. Aplicação Web baseada no Pomodoro.
