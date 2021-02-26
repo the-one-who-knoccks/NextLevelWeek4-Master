@@ -24,7 +24,7 @@ O projeto está sendo desenvolvido com as seguintes tecnologias.
 
 ## :alarm_clock: Move.it. Aplicação Web baseada no Pomodoro.
 
-
+ 
 <div align="center">
 Feito com :purple_heart: por
     <a href="https://github.com/the-one-who-knoccks">The-one-who-knoccks</a> e
