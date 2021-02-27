@@ -1,10 +1,14 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useContext } from 'react';
 import styles from '../styles/components/Countdown.module.css';
+import { ChallengesContext } from '../contexts/ChallengesContext'; 
 
 //Pure Javascript that stops the setTimeout function
 let countdownTimeout: NodeJS.Timeout;
 
 export function Countdown() {
+
+  const {  startNewchallenge  } = useContext(ChallengesContext);
+
   const [time, setTime] = useState(0.1 * 60);
   const [isActive, setIsActive] = useState(false);
   const [hasFinished, setHasFinished] = useState(false)
@@ -37,6 +41,7 @@ export function Countdown() {
       isActive && time === 0) {
       setHasFinished(true);
       setIsActive(false);
+      startNewchallenge();
     }
   }, [isActive, time])
 
