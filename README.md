@@ -24,6 +24,12 @@ O projeto está sendo desenvolvido com as seguintes tecnologias.
 
 ## :alarm_clock: Move.it. Aplicação Web baseada no Pomodoro.
 
+<div>
+  <img src="/Preview/preview01.png" alt="Happy Demo" heigth="450">
+</div>
+<br/>
+
+
  
 <div align="center">
 Feito com :purple_heart: por
