@@ -32,11 +32,6 @@ O projeto está sendo desenvolvido com as seguintes tecnologias.
 * [Next.js](https://nextjs.org/) 
  
 
-## Deploy da aplicação
-
-https://moveyourself-ten.vercel.app/
-
-
  
 <div align="center">
 Feito com :purple_heart: por
