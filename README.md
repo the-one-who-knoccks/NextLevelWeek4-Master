@@ -12,14 +12,8 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-5965e0">
 
 </p>   
-   
-# :computer: Tecnologias
-O projeto está sendo desenvolvido com as seguintes tecnologias.
 
-* [Typescript](https://www.typescriptlang.org/)
-* [React](https://reactjs.org/)
-* [Next.js](https://nextjs.org/) 
- 
+
 # Sobre
 
 ## :alarm_clock: Move.it. Aplicação Web baseada no Pomodoro.
@@ -28,6 +22,16 @@ O projeto está sendo desenvolvido com as seguintes tecnologias.
   <img src="https://ik.imagekit.io/hld13bjzb1/Peek_2021-02-28_18-37_GMNApHpXG.gif" alt="Happy Demo" heigth="450">
 </div>
 <br/>
+
+   
+# :computer: Tecnologias
+O projeto está sendo desenvolvido com as seguintes tecnologias.
+
+* [Typescript](https://www.typescriptlang.org/)
+* [React](https://reactjs.org/)
+* [Next.js](https://nextjs.org/) 
+ 
+
 
 
  
