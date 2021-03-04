@@ -32,7 +32,7 @@ O projeto está sendo desenvolvido com as seguintes tecnologias.
 * [Next.js](https://nextjs.org/) 
  
 
- 
+  
 <div align="center">
 Feito com :purple_heart: por
     <a href="https://github.com/the-one-who-knoccks">The-one-who-knoccks</a> e
