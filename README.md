@@ -24,7 +24,7 @@
 <br/>
 
    
-## :computer: Tecnologias
+## :computer: Tecnologias 
 O projeto está sendo desenvolvido com as seguintes tecnologias.
 
 * [Typescript](https://www.typescriptlang.org/)
