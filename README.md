@@ -2,7 +2,7 @@
    <img src="public/logo-full.svg" alt="Move It" width="300"/>
 </p>
  
-<br/>
+<br/> 
 <p align="center">
 
   <a aria-label="Completed" href="https://nextlevelweek.com/episodios/react/1/edicao/4">
