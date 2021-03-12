@@ -22,7 +22,7 @@
   <img src="https://ik.imagekit.io/hld13bjzb1/Peek_2021-02-28_18-37_GMNApHpXG.gif" alt="Happy Demo" heigth="450">
 </div>
 <br/>
- 
+  
     
 ## :computer: Tecnologias 
 O projeto está sendo desenvolvido com as seguintes tecnologias.
